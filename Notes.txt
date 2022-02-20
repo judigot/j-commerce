@@ -1,0 +1,52 @@
+J-Commerce:
+db credentials
+
+site title
+tagline
+username
+password
+email
+
+woocommerce:
+setup storefront to have add to cart functionality (wait till the whole setup loads to see the preview)
+disable product reviews
+add wishlist functionality
+allow account registration on "My Account"
+
+Default:
+remove unused themes
+remove all posts
+delete sample page
+remove unused pages
+set landing page
+add categories (settings > reading)
+add favicon
+
+sidebar:
+remove search
+remove meta
+display categories as dropdown
+show post count in archive
+
+menu (navbar):
+homepage
+blog
+privacy policy
+my account
+shop
+wishlist
+checkout
+
+themes:
+di ecommerce (for installing dependencies)
+-------------------------
+shop isle (main theme)
+-------------------------
+
+plugins:
+ajax wishlist
+ajax add to cart
+--------------------------------------------------
+Questions:
+Account registration for customers?
+Paypal?
